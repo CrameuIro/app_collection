@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-04-30 15:00
+  update_time: 2026-04-30 16:27
 categories:
   - name: ACGN
     - name: Book's Story
@@ -702,11 +702,25 @@ categories:
         - type: official
           url: https://zfont.pages.dev/
   - name: SystemTools
+    - name: Amarok
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/deltazefiro/Amarok-Hider
+        - type: fdroid
+          url: https://f-droid.org/packages/deltazero.amarok.foss/
+        - type: official
+          url: https://deltazefiro.github.io/Amarok-doc/
     - name: AnyLauncher
       type: foss
       sources:
         - type: github
           url: https://github.com/tumuyan/AnyLauncher
+    - name: Apktool M
+      type: closed
+      sources:
+        - type: official
+          url: https://maximoff.su/apktool/
     - name: App Manager
       type: foss
       sources:
@@ -740,6 +754,13 @@ categories:
       sources:
         - type: github
           url: https://github.com/chenzyadb/CuprumTurbo-Scheduler
+    - name: Easter Eggs
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/hushenghao/AndroidEasterEggs
+        - type: fdroid
+          url: https://f-droid.org/packages/com.dede.android_eggs/
     - name: Extinguish
       type: foss
       sources:
@@ -820,6 +841,11 @@ categories:
           url: https://github.com/ChaoMixian/vFlow
         - type: official
           url: https://chaomixian.github.io/vFlow-Docs/
+    - name: TetherFuseNet
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/pyamsoft/tetherfusenet
     - name: Traffic Light
       type: foss
       sources:
@@ -884,6 +910,13 @@ categories:
           url: https://github.com/LanRhyme/MicYou
         - type: official
           url: https://micyou.top/
+    - name: NotallyX
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/Crustack/NotallyX
+        - type: fdroid
+          url: https://f-droid.org/packages/com.philkes.notallyx/
     - name: Opera
       type: closed
       sources:
@@ -910,6 +943,13 @@ categories:
           url: https://f-droid.org/packages/com.termux/
         - type: official
           url: https://termux.dev/
+    - name: TimeR Machine
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/timer-machine/timer-machine-android
+        - type: fdroid
+          url: https://f-droid.org/packages/io.github.deweyreed.timer.other/
     - name: VPN Hotspot
       type: foss
       sources:
@@ -917,6 +957,13 @@ categories:
           url: https://github.com/Mygod/VPNHotspot
         - type: fdroid
           url: https://f-droid.org/packages/be.mygod.vpnhotspot_foss/
+    - name: Vanilla
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/sosauce/Vanilla
+        - type: fdroid
+          url: https://f-droid.org/packages/com.sosauce.cutecalc/
     - name: Via
       type: closed
       sources:
@@ -928,6 +975,16 @@ categories:
       sources:
         - type: github
           url: https://github.com/Tosencen/XMSLEEP
+    - name: 一个木函
+      type: closed
+      sources:
+        - type: official
+          url: https://woobx.cn/
+    - name: 奇妙工具箱
+      type: closed
+      sources:
+        - type: official
+          url: https://www.magicalbox.cn/toolbox
     - name: 白眼
       type: closed
       sources:
