@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-04-30 16:27
+  update_time: 2026-05-04 08:48
 categories:
   - name: ACGN
     - name: Book's Story
@@ -829,6 +829,11 @@ categories:
       sources:
         - type: github
           url: https://github.com/jing332/tts-server-android
+    - name: Talkify
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/LonePheasantWarrior/TalkifyTTS
     - name: Tasker
       type: closed
       sources:
