@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-05-05 17:08
+  update_time: 2026-05-05 18:09
 categories:
   - name: ACGN
     - name: Book's Story
@@ -209,6 +209,22 @@ categories:
         - type: official
           url: https://lanshared.com/
   - name: MediaEntertainment
+    - name: bilimiao
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/10miaomiao/bilimiao2
+        - type: official
+          url: https://10miaomiao.cn/project/bilimiao
+    - name: Booming Music
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/mardous/BoomingMusic
+        - type: fdroid
+          url: https://f-droid.org/packages/com.mardous.booming/
+        - type: official
+          url: https://boomingmusic.vercel.app/
     - name: Gramophone
       type: foss
       sources:
@@ -281,13 +297,6 @@ categories:
           url: https://f-droid.org/packages/org.videolan.vlc/
         - type: official
           url: https://www.videolan.org/vlc/
-    - name: bilimiao
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/10miaomiao/bilimiao2
-        - type: official
-          url: https://10miaomiao.cn/project/bilimiao
     - name: 搜图神器
       type: closed
       sources:
@@ -299,13 +308,6 @@ categories:
         - type: official
           url: https://music.163.com/
   - name: Root & Modules
-    - name: APatch
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/bmax121/APatch
-        - type: official
-          url: https://apatch.app/
     - name: Adb-Root-Enabler
       type: foss
       sources:
@@ -316,6 +318,13 @@ categories:
       sources:
         - type: github
           url: https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod
+    - name: APatch
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/bmax121/APatch
+        - type: official
+          url: https://apatch.app/
     - name: Applist Detector
       type: foss
       sources:
@@ -328,13 +337,6 @@ categories:
           url: https://github.com/yujincheng08/BiliRoaming
         - type: official
           url: https://modules.lsposed.org/module/me.iacn.biliroaming/
-    - name: CSLyric
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/tomakino/CSLyric
-        - type: official
-          url: https://modules.lsposed.org/module/com.makino.cslyric/
     - name: CorePatch
       type: foss
       sources:
@@ -342,11 +344,23 @@ categories:
           url: https://github.com/LSPosed/CorePatch
         - type: official
           url: https://modules.lsposed.org/module/com.coderstory.toolkit/
+    - name: CSLyric
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/tomakino/CSLyric
+        - type: official
+          url: https://modules.lsposed.org/module/com.makino.cslyric/
     - name: CustomPinyinDictionary
       type: foss
       sources:
         - type: github
           url: https://github.com/wuhgit/CustomPinyinDictionary
+    - name: freeform_update
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/eswd04/freeform_update
     - name: FreeMoe
       type: foss
       sources:
@@ -411,6 +425,11 @@ categories:
           url: https://github.com/JingMatrix/LSPosed
         - type: official
           url: https://lsposed.cn/
+    - name: lyricon
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/proify/lyricon
     - name: LyricProvider
       type: foss
       sources:
@@ -476,6 +495,11 @@ categories:
           url: https://github.com/chsbuffer/RevancedXposed
         - type: official
           url: https://modules.lsposed.org/module/io.github.chsbuffer.revancedxposed/
+    - name: reYAMF
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/JuanArton/reYAMF
     - name: Shamiko
       type: foss
       sources:
@@ -488,6 +512,11 @@ categories:
           url: https://github.com/RikkaApps/Shizuku
         - type: official
           url: https://shizuku.rikka.app/
+    - name: simple-cjk-font-magisk-module-template
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/lxgw/simple-cjk-font-magisk-module-template
     - name: StorageRedirect-assets
       type: foss
       sources:
@@ -527,6 +556,11 @@ categories:
       sources:
         - type: github
           url: https://github.com/fei-ke/unlock-cn-gms
+    - name: wifi-bonding
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/Magisk-Modules-Repo/wifi-bonding
     - name: XposedSmsCode
       type: foss
       sources:
@@ -549,31 +583,6 @@ categories:
       sources:
         - type: github
           url: https://github.com/Dr-TSNG/ZygiskNext
-    - name: freeform_update
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/eswd04/freeform_update
-    - name: lyricon
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/proify/lyricon
-    - name: reYAMF
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/JuanArton/reYAMF
-    - name: simple-cjk-font-magisk-module-template
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/lxgw/simple-cjk-font-magisk-module-template
-    - name: wifi-bonding
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/Magisk-Modules-Repo/wifi-bonding
   - name: SocialCommunication
     - name: Arcane Chat
       type: foss
@@ -816,6 +825,18 @@ categories:
           url: https://github.com/LibChecker/LibChecker
         - type: fdroid
           url: https://f-droid.org/packages/com.absinthe.libchecker/
+    - name: microG
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/microg/GmsCore
+        - type: official
+          url: https://microg.org/
+    - name: Scene4
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/helloklf/vtools
     - name: SD Maid SE
       type: foss
       sources:
@@ -823,21 +844,11 @@ categories:
           url: https://github.com/d4rken-org/sdmaid-se
         - type: official
           url: https://f-droid.org/packages/eu.darken.sdmse/
-    - name: Scene4
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/helloklf/vtools
     - name: Smartspacer
       type: foss
       sources:
         - type: github
           url: https://github.com/KieronQuinn/Smartspacer
-    - name: TTS Server
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/jing332/tts-server-android
     - name: Talkify
       type: foss
       sources:
@@ -848,13 +859,6 @@ categories:
       sources:
         - type: official
           url: https://tasker.joaoapps.com/download.html
-      - name: vFlow
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/ChaoMixian/vFlow
-        - type: official
-          url: https://chaomixian.github.io/vFlow-Docs/
     - name: TetherFuseNet
       type: foss
       sources:
@@ -867,13 +871,11 @@ categories:
           url: https://github.com/leekleak/traffic-light
         - type: fdroid
           url: https://f-droid.org/packages/com.leekleak.trafficlight/
-    - name: microG
+    - name: TTS Server
       type: foss
       sources:
         - type: github
-          url: https://github.com/microg/GmsCore
-        - type: official
-          url: https://microg.org/
+          url: https://github.com/jing332/tts-server-android
     - name: v2rayNG
       type: foss
       sources:
@@ -881,6 +883,13 @@ categories:
           url: https://github.com/2dust/v2rayNG
         - type: official
           url: https://v2rayng.2dust.link/
+      - name: vFlow
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/ChaoMixian/vFlow
+        - type: official
+          url: https://chaomixian.github.io/vFlow-Docs/
     - name: 小黑屋
       type: closed
       sources:
@@ -964,13 +973,6 @@ categories:
           url: https://github.com/timer-machine/timer-machine-android
         - type: fdroid
           url: https://f-droid.org/packages/io.github.deweyreed.timer.other/
-    - name: VPN Hotspot
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/Mygod/VPNHotspot
-        - type: fdroid
-          url: https://f-droid.org/packages/be.mygod.vpnhotspot_foss/
     - name: Vanilla
       type: foss
       sources:
@@ -983,6 +985,13 @@ categories:
       sources:
         - type: official
           url: https://viayoo.com/
+    - name: VPN Hotspot
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/Mygod/VPNHotspot
+        - type: fdroid
+          url: https://f-droid.org/packages/be.mygod.vpnhotspot_foss/
     - name: WebBrowsing
     - name: XMSleep
       type: foss

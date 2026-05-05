@@ -69,6 +69,12 @@ https://github.com/localsend/localsend
 
 ## MediaEntertainment
 
+bilimiao
+https://github.com/10miaomiao/bilimiao2
+
+Booming Music
+https://github.com/mardous/BoomingMusic
+
 Gramophone
 https://github.com/FoedusProgramme/Gramophone
 
@@ -99,13 +105,7 @@ https://github.com/xiaoyaocz/dart_simple_live
 VLC
 https://github.com/videolan/vlc
 
-bilimiao
-https://github.com/10miaomiao/bilimiao2
-
 ## Root & Modules
-
-APatch
-https://github.com/bmax121/APatch
 
 Adb-Root-Enabler
 https://github.com/anasfanani/Adb-Root-Enabler
@@ -113,20 +113,26 @@ https://github.com/anasfanani/Adb-Root-Enabler
 Adguard Home For Magisk Mod
 https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod
 
+APatch
+https://github.com/bmax121/APatch
+
 Applist Detector
 https://github.com/Dr-TSNG/ApplistDetector
 
 BiliRoaming
 https://github.com/yujincheng08/BiliRoaming
 
-CSLyric
-https://github.com/tomakino/CSLyric
-
 CorePatch
 https://github.com/LSPosed/CorePatch
 
+CSLyric
+https://github.com/tomakino/CSLyric
+
 CustomPinyinDictionary
 https://github.com/wuhgit/CustomPinyinDictionary
+
+freeform_update
+https://github.com/eswd04/freeform_update
 
 FreeMoe
 https://github.com/Xposed-Modules-Repo/me.feimeng.vip
@@ -157,6 +163,9 @@ https://github.com/Xposed-Modules-Repo/com.op.lspdoze
 
 LSPosed
 https://github.com/JingMatrix/LSPosed
+
+lyricon
+https://github.com/proify/lyricon
 
 LyricProvider
 https://github.com/proify/LyricProvider
@@ -191,11 +200,17 @@ https://github.com/Yubyf/QuoteLockX-CustomFonts
 ReVanced Xposed
 https://github.com/chsbuffer/RevancedXposed
 
+reYAMF
+https://github.com/JuanArton/reYAMF
+
 Shamiko
 https://github.com/LSPosed/LSPosed.github.io
 
 Shizuku
 https://github.com/RikkaApps/Shizuku
+
+simple-cjk-font-magisk-module-template
+https://github.com/lxgw/simple-cjk-font-magisk-module-template
 
 StorageRedirect-assets
 https://github.com/RikkaApps/StorageRedirect-assets
@@ -218,6 +233,9 @@ https://github.com/gloeyisk/universal-gms-doze
 Unlock CN GMS
 https://github.com/fei-ke/unlock-cn-gms
 
+wifi-bonding
+https://github.com/Magisk-Modules-Repo/wifi-bonding
+
 XposedSmsCode
 https://github.com/tianma8023/XposedSmsCode
 
@@ -229,21 +247,6 @@ https://github.com/snake-4/Zygisk-Assistant
 
 Zygisk Next
 https://github.com/Dr-TSNG/ZygiskNext
-
-freeform_update
-https://github.com/eswd04/freeform_update
-
-lyricon
-https://github.com/proify/lyricon
-
-reYAMF
-https://github.com/JuanArton/reYAMF
-
-simple-cjk-font-magisk-module-template
-https://github.com/lxgw/simple-cjk-font-magisk-module-template
-
-wifi-bonding
-https://github.com/Magisk-Modules-Repo/wifi-bonding
 
 ## SocialCommunication
 
@@ -325,17 +328,17 @@ https://github.com/LawnchairLauncher/lawnchair
 LibChecker
 https://github.com/LibChecker/LibChecker
 
-SD Maid SE
-https://github.com/d4rken-org/sdmaid-se
+microG
+https://github.com/microg/GmsCore
 
 Scene4
 https://github.com/helloklf/vtools
 
+SD Maid SE
+https://github.com/d4rken-org/sdmaid-se
+
 Smartspacer
 https://github.com/KieronQuinn/Smartspacer
-
-TTS Server
-https://github.com/jing332/tts-server-android
 
 Talkify
 https://github.com/LonePheasantWarrior/TalkifyTTS
@@ -346,11 +349,14 @@ https://github.com/pyamsoft/tetherfusenet
 Traffic Light
 https://github.com/leekleak/traffic-light
 
-microG
-https://github.com/microg/GmsCore
+TTS Server
+https://github.com/jing332/tts-server-android
 
 v2rayNG
 https://github.com/2dust/v2rayNG
+
+vFlow
+https://github.com/ChaoMixian/vFlow
 
 ## UtilityTools
 
@@ -381,11 +387,11 @@ https://github.com/termux/termux-app
 TimeR Machine
 https://github.com/timer-machine/timer-machine-android
 
-VPN Hotspot
-https://github.com/Mygod/VPNHotspot
-
 Vanilla
 https://github.com/sosauce/Vanilla
+
+VPN Hotspot
+https://github.com/Mygod/VPNHotspot
 
 XMSleep
 https://github.com/Tosencen/XMSLEEP
