@@ -34,6 +34,9 @@ https://github.com/mihonapp/mihon
 Miru
 https://github.com/miru-project/miru-app
 
+Readest
+https://github.com/readest/readest
+
 ## AppStores
 
 Aurora Store
@@ -44,6 +47,9 @@ https://github.com/Droid-ify/client
 
 F-Droid
 https://github.com/f-droid/fdroidclient
+
+Neo Store
+https://github.com/NeoApplications/Neo-Store
 
 ## EmulationTools
 
@@ -236,6 +242,9 @@ https://github.com/JuanArton/reYAMF
 simple-cjk-font-magisk-module-template
 https://github.com/lxgw/simple-cjk-font-magisk-module-template
 
+wifi-bonding
+https://github.com/Magisk-Modules-Repo/wifi-bonding
+
 ## SocialCommunication
 
 Arcane Chat
@@ -265,6 +274,9 @@ https://github.com/Mahmud0808/Iconify
 
 Wall You
 https://github.com/you-apps/WallYou
+
+zFont
+https://github.com/zFont/flutter-app
 
 ## SystemTools
 
@@ -327,9 +339,6 @@ https://github.com/jing332/tts-server-android
 
 Talkify
 https://github.com/LonePheasantWarrior/TalkifyTTS
-
-Tasker
-https://github.com/ChaoMixian/vFlow
 
 TetherFuseNet
 https://github.com/pyamsoft/tetherfusenet
