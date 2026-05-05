@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-05-05 18:09
+  update_time: 2026-05-05 18:29
 categories:
   - name: ACGN
     - name: Book's Story
@@ -149,6 +149,15 @@ categories:
       sources:
         - type: official
           url: https://joiplay.net/
+    - name: Termux
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/termux/termux-app
+        - type: fdroid
+          url: https://f-droid.org/packages/com.termux/
+        - type: official
+          url: https://termux.dev/
     - name: Winlator
       type: closed
       sources:
