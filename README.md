@@ -158,6 +158,9 @@ https://github.com/AoEiuV020/IAmNotDisabled
 KernelSU
 https://github.com/tiann/KernelSU
 
+KernelSU Next
+https://github.com/KernelSU-Next/KernelSU-Next
+
 KsuWebUI
 https://github.com/adivenxnataly/KsuWebUI
 
@@ -185,6 +188,9 @@ https://github.com/cnrd/MagiskHide-Props-Config
 NewMiko
 https://github.com/dartcv/NewMiko
 
+NexAlloy
+https://github.com/NexAlloy/NexAlloy
+
 Play Integrity Fork
 https://github.com/osm0sis/PlayIntegrityFork
 
@@ -199,9 +205,6 @@ https://github.com/Yubyf/QuoteLockX
 
 QuoteLockX-CustomFonts
 https://github.com/Yubyf/QuoteLockX-CustomFonts
-
-ReVanced Xposed
-https://github.com/chsbuffer/RevancedXposed
 
 reYAMF
 https://github.com/JuanArton/reYAMF
@@ -358,9 +361,6 @@ https://github.com/jing332/tts-server-android
 v2rayNG
 https://github.com/2dust/v2rayNG
 
-vFlow
-https://github.com/ChaoMixian/vFlow
-
 ## UtilityTools
 
 AutoGLM For Android
@@ -383,9 +383,6 @@ https://github.com/m-i-n-a-r/randomix
 
 Ruto
 https://github.com/iamr0s/Ruto-GLM
-
-Termux
-https://github.com/termux/termux-app
 
 TimeR Machine
 https://github.com/timer-machine/timer-machine-android
