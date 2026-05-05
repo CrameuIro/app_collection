@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-05-05 18:29
+  update_time: 2026-05-05 20:19
 categories:
   - name: ACGN
     - name: Book's Story
@@ -415,6 +415,13 @@ categories:
           url: https://github.com/tiann/KernelSU
         - type: official
           url: https://kernelsu.org/
+    - name: KernelSU Next
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/KernelSU-Next/KernelSU-Next
+        - type: official
+          url: https://kernelsu-next.github.io/webpage/
     - name: KsuWebUI
       type: foss
       sources:
@@ -468,6 +475,13 @@ categories:
           url: https://github.com/dartcv/NewMiko
         - type: official
           url: https://modules.lsposed.org/module/im.mingxi.miko/
+    - name: NexAlloy
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/NexAlloy/NexAlloy
+        - type: official
+          url: https://modules.lsposed.org/module/io.github.chsbuffer.revancedxposed/
     - name: Play Integrity Fork
       type: foss
       sources:
@@ -497,13 +511,6 @@ categories:
       sources:
         - type: github
           url: https://github.com/Yubyf/QuoteLockX-CustomFonts
-    - name: ReVanced Xposed
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/chsbuffer/RevancedXposed
-        - type: official
-          url: https://modules.lsposed.org/module/io.github.chsbuffer.revancedxposed/
     - name: reYAMF
       type: foss
       sources:
@@ -966,15 +973,6 @@ categories:
       sources:
         - type: github
           url: https://github.com/iamr0s/Ruto-GLM
-    - name: Termux
-      type: foss
-      sources:
-        - type: github
-          url: https://github.com/termux/termux-app
-        - type: fdroid
-          url: https://f-droid.org/packages/com.termux/
-        - type: official
-          url: https://termux.dev/
     - name: TimeR Machine
       type: foss
       sources:
