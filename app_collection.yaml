@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-05-04 08:48
+  update_time: 2026-05-05 16:36
 categories:
   - name: ACGN
     - name: Book's Story
@@ -575,6 +575,15 @@ categories:
         - type: github
           url: https://github.com/Magisk-Modules-Repo/wifi-bonding
   - name: SocialCommunication
+    - name: Arcane Chat
+      type: foss
+      sources:
+        - type: github
+          url: https://github.com/ArcaneChat/android
+        - type: fdroid
+          url: https://f-droid.org/packages/chat.delta.lite/
+        - type: official
+          url: https://arcanechat.me/
     - name: Delta Chat
       type: foss
       sources:
