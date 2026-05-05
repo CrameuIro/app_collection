@@ -1,6 +1,17 @@
 # app_collection
 
 Download links for some Android apps and modules.
+## ACGN
+## AppStores
+## EmulationTools
+## FileManagement
+## MediaEntertainment
+## Root & Modules
+## SocialCommunication
+## Study & Office
+## SystemCustomization
+## SystemTools
+## UtilityTools
 
 ## ACGN
 
